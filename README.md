@@ -1,2 +1,1 @@
-# project-docs
-documentation for major project report
+## major project documentation repo 

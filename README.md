@@ -3,5 +3,5 @@ open in codespace
 
 
 ```sh
-sudo apt update && sudo apt install texlive texlive-science texlive-latex-extra latexmk
+sudo apt update && sudo apt install texlive-full texlive-science texlive-latex-extra latexmk
 ```

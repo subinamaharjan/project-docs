@@ -15,6 +15,7 @@
 *.cb2
 .*.lb
 
+*.pdf
 *.fdb_latexmk
 *.fls
 *.gz
